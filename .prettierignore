@@ -1,0 +1,13 @@
+# Claude Code yapılandırması ve skill'leri (bunlara asla dokunma)
+.claude
+
+# Bağımlılıklar ve build çıktıları (Prettier bunlara dokunmasın)
+node_modules
+.next
+out
+build
+coverage
+
+# Otomatik üretilen / kilit dosyaları
+next-env.d.ts
+package-lock.json
