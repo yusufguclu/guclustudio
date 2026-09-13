@@ -14,7 +14,7 @@ Bu dosya, onaylanan faz planının **yaşayan hâlidir**. Adımlar tamamlandık�
 - [x] İskelet layout: Header, Footer, Container + placeholder anasayfa
 - [x] Yaşayan dokümantasyon: `CLAUDE.md` + `docs/`
 - [x] Git deposu + ilk commit + GitHub push (github.com/yusufguclu/guclustudio)
-- [ ] Vercel'e bağlama (otomatik deploy hattı)
+- [x] Vercel'e bağlama (otomatik deploy hattı) — push → otomatik deploy aktif
 
 ## Faz 1 — Public Site (mock veri) + Canlı Sürüm ← ilk büyük milestone
 

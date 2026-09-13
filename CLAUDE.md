@@ -39,8 +39,8 @@ auth, admin/CMS, SEO/GEO, deployment, performans, güvenlik).
 
 ## Şu an neredeyiz / Sırada ne var
 
-- **Durum:** Faz 0 neredeyse bitti; GitHub'a push edildi → https://github.com/yusufguclu/guclustudio
-- **Sırada:** Vercel'e bağlama (otomatik deploy hattı). Sonra **Faz 1** (mock veriyle public site).
+- **Durum:** Faz 0 **tamamen tamamlandı**. GitHub → https://github.com/yusufguclu/guclustudio — Vercel canlı, push → otomatik deploy aktif.
+- **Sırada:** Faz 1 — `lib/types.ts` + `lib/projects.ts` (mock veri) → Anasayfa hero → Projeler listesi → Proje detay sayfası → İletişim → SEO temeli.
 - Ayrıntılı ilerleme: `docs/ROADMAP.md`
 
 ## Belgeler

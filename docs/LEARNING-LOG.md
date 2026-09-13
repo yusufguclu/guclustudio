@@ -15,6 +15,7 @@ CV/mülakat için "ne öğrendim, nasıl uyguladım" hikâyesini oluşturur.
 - Header / Footer / Container bileşenlerini ve placeholder anasayfayı yazdık.
 - Yaşayan dokümantasyon sistemini kurduk (bu dosyalar).
 - Git deposunu başlattık (`main` dalı), ilk commit'i attık ve `gh` CLI ile GitHub'a **public** push ettik.
+- GitHub reposunu Vercel'e bağladık: push → otomatik production deploy; her PR otomatik preview URL alıyor.
 
 ### Öğrenilen kavramlar
 
