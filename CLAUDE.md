@@ -39,8 +39,8 @@ auth, admin/CMS, SEO/GEO, deployment, performans, güvenlik).
 
 ## Şu an neredeyiz / Sırada ne var
 
-- **Durum:** Faz 0 — kurulum, kod kalitesi, token'lar, iskelet layout ve dokümantasyon **tamam**.
-- **Sırada:** Git init + GitHub push → Vercel'e bağlama. Sonra **Faz 1** (mock veriyle public site).
+- **Durum:** Faz 0 neredeyse bitti; GitHub'a push edildi → https://github.com/yusufguclu/guclustudio
+- **Sırada:** Vercel'e bağlama (otomatik deploy hattı). Sonra **Faz 1** (mock veriyle public site).
 - Ayrıntılı ilerleme: `docs/ROADMAP.md`
 
 ## Belgeler

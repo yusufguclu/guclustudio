@@ -13,7 +13,7 @@ Bu dosya, onaylanan faz planının **yaşayan hâlidir**. Adımlar tamamlandık�
 - [x] Tasarım token'ları (`app/globals.css`) + fontlar (Geist Sans/Mono)
 - [x] İskelet layout: Header, Footer, Container + placeholder anasayfa
 - [x] Yaşayan dokümantasyon: `CLAUDE.md` + `docs/`
-- [ ] Git deposu + ilk commit + GitHub push
+- [x] Git deposu + ilk commit + GitHub push (github.com/yusufguclu/guclustudio)
 - [ ] Vercel'e bağlama (otomatik deploy hattı)
 
 ## Faz 1 — Public Site (mock veri) + Canlı Sürüm ← ilk büyük milestone

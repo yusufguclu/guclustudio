@@ -14,6 +14,7 @@ CV/mülakat için "ne öğrendim, nasıl uyguladım" hikâyesini oluşturur.
 - `app/globals.css`'te tasarım token'ları (CSS değişkenleri) tanımladık.
 - Header / Footer / Container bileşenlerini ve placeholder anasayfayı yazdık.
 - Yaşayan dokümantasyon sistemini kurduk (bu dosyalar).
+- Git deposunu başlattık (`main` dalı), ilk commit'i attık ve `gh` CLI ile GitHub'a **public** push ettik.
 
 ### Öğrenilen kavramlar
 
